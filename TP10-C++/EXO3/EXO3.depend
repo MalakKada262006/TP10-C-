@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1793319535 source:c:\users\cli\onedrive\desktop\tp10-c++\exo4\main.cpp
+	<iostream>
+	"Livre.hpp"
+	<windows.h>
+
+1793319401 c:\users\cli\onedrive\desktop\tp10-c++\exo4\livre.hpp
+	<string>
+
+1793320677 source:c:\users\cli\onedrive\desktop\tp10-c++\exo3\main.cpp
+	<iostream>
+	"Livre.hpp"
+	<windows.h>
+
+1793319401 c:\users\cli\onedrive\desktop\tp10-c++\exo3\livre.hpp
+	<string>
+
